@@ -48,7 +48,7 @@
   <Text Key="Dopamine_Uses_WASAPI">サウンドは Windows Audio Session API (WASAPI) を通して再生されます。</Text>
   <Text Key="Appearance">ビジュアル</Text>
   <Text Key="Theme">テーマ</Text>
-  <Text Key="Choose_Theme">ライト テーマを使う</Text>
+  <Text Key="Choose_Theme">ライト テーマの使用</Text>
   <Text Key="Follow_Windows_Color">Windows の色に従う</Text>
   <Text Key="Choose_A_Color">色の選択</Text>
   <Text Key="Choose_Language">言語の選択</Text>
@@ -292,7 +292,7 @@
   <Text Key="Components">コンポーネント</Text>
   <Text Key="Thanks">ありがとう！</Text>
   <Text Key="License">ライセンス</Text>
-  <Text Key="Wasapi_Exclusive_Mode">WASAPI 排他モードを有効にする (他のアプリケーションのサウンドをミュートします)</Text>
+  <Text Key="Wasapi_Exclusive_Mode">WASAPI 排他モードの有効化 (ほかのアプリケーションのサウンドをミュートします)</Text>
   <Text Key="Equalizer">イコライザ</Text>
   <Text Key="Enable_Equalizer">イコライザを有効にする</Text>
   <Text Key="Reset">リセット</Text>
@@ -358,7 +358,7 @@
   <Text Key="Remember_Last_played_Song">最後に再生した曲と再生時間を記憶</Text>
   <Text Key="Download_Lyrics_From">歌詞の取得</Text>
   <Text Key="Lyrics_Download_Timeout">タイムアウト秒</Text>
-  <Text Key="Show_Remove_From_Disk">コンテキスト メニューに 'コンピューターから削除' を表示する</Text>
+  <Text Key="Show_Remove_From_Disk">コンテキスト メニューに 'コンピューターから削除' を表示</Text>
   <Text Key="Remove_From_Disk">コンピューターから削除</Text>
   <Text Key="Are_You_Sure_To_Remove_Song_From_Disk">この曲をコンピューターから削除しますか？ ごみ箱から復元できます。</Text>
   <Text Key="Are_You_Sure_To_Remove_Songs_From_Disk">これらの曲をコンピューターから削除しますか？ ごみ箱から復元できます。</Text>
@@ -389,7 +389,7 @@
   <Text Key="Play_Selected">選択されている曲を再生</Text>
   <Text Key="Error_Playing_Selected_Songs">選択されている曲の再生中にエラーが発生しました。詳細はログ ファイルを参照してください。</Text>
   <Text Key="External_Control">外部コントロール</Text>
-  <Text Key="Enable_External_Control">外部コントロールを有効化</Text>
+  <Text Key="Enable_External_Control">外部コントロールの有効化</Text>
   <Text Key="Enable_System_Notification">システム通知の有効化</Text>
   <Text Key="Unknown_Album">不明なアルバム</Text>
   <Text Key="Unknown_Genre">不明なジャンル</Text>
@@ -448,7 +448,7 @@
   <Text Key="Date_Created">作成日</Text>
   <Text Key="Manage_Collection">コレクションの管理</Text>
   <Text Key="Use_AppCommand_Media_Keys">このソフトでキーボードのマルチメディア キー機能を有効化</Text>
-  <Text Key="Smart_Playlist_Does_Not_Contain">does not contain</Text>
-  <Text Key="By_Year_Ascending">By year ascending</Text>
-  <Text Key="By_Year_Descending">By year descending</Text>
+  <Text Key="Smart_Playlist_Does_Not_Contain">含まない</Text>
+  <Text Key="By_Year_Ascending">古い順</Text>
+  <Text Key="By_Year_Descending">新しい順</Text>
 </Language>
